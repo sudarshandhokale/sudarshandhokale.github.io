@@ -28,7 +28,7 @@ Core content is available without JavaScript. Reduced-motion preferences are res
 - styles.css — responsive design, mobile layouts, accessibility and print styles.
 - app.js — interaction logic; no external dependencies or network requests.
 - assets/sudarshan-dhokale.png — supplied portrait, unchanged.
-- assets/Sudarshan_Dhokale_CV.pdf — supplied CV download.
+- No public CV download; recruiters can request a current version through Contact.
 - assets/favicon.svg — monogram icon.
 - .nojekyll — plain static hosting marker.
 
@@ -37,20 +37,20 @@ Place these files at the root of your repository, keeping the assets folder inta
 
 ## Content and privacy
 - Public title remains Senior Software Engineer; the portrait filename does not imply CTO positioning.
-- XING MAU/DAU figures describe platform scale, not traffic owned by one service.
+- Highlights use confirmed contributions: three connected product domains, 15+ integrations and leadership through team leads.
 - Kumolus leadership scope is through reporting team leads.
 - Wearo is clearly marked as a prototype. Project artwork is illustrative.
 - SAFEGO feature visuals are conceptual illustrations, not live customer dashboards or product screenshots. Confirmed MVP capabilities are presented; planned camera/advanced AI evidence features are excluded.
 - SAFEGO is an independent, part-time venture: building since 2024, company registered 2026, MVP built and customer onboarding pending. Product and technology ownership is distinguished from the co-founder’s sales/marketing role.
 - XING dates use years because supplied CV and LinkedIn differ on the starting month.
-- The supplied CV contains contact details and is intentionally included as a download.
+- SAFEGO AI is in testing; the internal XING agent is separately identified as used by colleagues for over a year.
 - No analytics, contact-form backend, external fonts, API keys or trackers are included.
 
 ## Updating
-Edit content in index.html, styling in styles.css and interactions in app.js. Replace the portrait and CV at the same paths to update them. Public project/store links can be added when available; none are invented.
+Edit content in index.html, styling in styles.css and interactions in app.js. Replace the portrait at the same path to update it. Keep the standalone HTML export synchronized with the main page. Public project/store links can be added when available; none are invented.
 
 ## Verification
 JavaScript syntax and local asset/anchor/accessibility-reference checks passed. Interaction and clipboard fallback logic was tested with a minimal DOM harness; career year calculation passed 10 date-boundary checks. Browser-native behavior remains unverified. Browser-based visual/responsive verification was unavailable in the authoring environment; check the page on desktop and mobile before publication.
 
 ## Experience counter
-The visible career total is calculated at page load from September 2013 using completed years. It changes to 14+ in September 2027. Page metadata uses the stable wording “since 2013.” The PDF is a separate static document and does not change automatically.
+The visible career total is calculated at page load from September 2013 using completed years. It changes to 14+ in September 2027. Page metadata uses the stable wording “since 2013.” CVs are shared on request rather than embedded in the website.
